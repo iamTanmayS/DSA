@@ -21,3 +21,8 @@ def maxSubArray(nums):
              
         
 print(maxSubArray([1,3,4,2,1,3,2,3]))
+
+
+    
+        
+
